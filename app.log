@@ -1,0 +1,24 @@
+2026-11-01 09:34:40,836 - DEBUG - This is a debug message
+2026-11-01 09:34:40,836 - INFO - Program started successfully
+2026-11-01 09:34:40,836 - WARNING - This is a warning message
+2026-11-01 09:34:40,836 - ERROR - An error has occurred
+2026-11-01 09:34:40,836 - CRITICAL - This is a critical error
+2026-11-01 09:34:40,836 - INFO - Performing division operation
+2026-11-01 09:34:40,836 - ERROR - Division by zero is not allowed
+Traceback (most recent call last):
+  File "c:\Users\ransi_jgbbm2p\OneDrive\Documents\GitHub\PLL-3 APP\logging_demo.py", line 25, in <module>
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-11-01 09:34:52,198 - DEBUG - This is a debug message
+2026-11-01 09:34:52,198 - INFO - Program started successfully
+2026-11-01 09:34:52,201 - WARNING - This is a warning message
+2026-11-01 09:34:52,201 - ERROR - An error has occurred
+2026-11-01 09:34:52,201 - CRITICAL - This is a critical error
+2026-11-01 09:34:52,201 - INFO - Performing division operation
+2026-11-01 09:34:52,201 - ERROR - Division by zero is not allowed
+Traceback (most recent call last):
+  File "c:\Users\ransi_jgbbm2p\OneDrive\Documents\GitHub\PLL-3 APP\logging_demo.py", line 25, in <module>
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
